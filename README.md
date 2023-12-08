@@ -1,17 +1,12 @@
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com)
 
-This is a companion repo for the [Astro course](https://frontendmasters.com/courses/astro/) on [Frontend Masters](https://frontendmasters.com).
-
 ## Setup
 
-The `start` branch from this repository contains some additional assets and is used as a starting point for the course:
-
-> We recommend using Node version 18 for this course.
+> Use Node version 18.
 
 ```bash
-git clone https://github.com/learnwithjason/astro-frontend-masters.git
-cd astro-frontend-masters
-git checkout start
+git clone https://github.com/mrnazu/astro-starter.git
+cd astro-starter
 npm install
 ```
 
