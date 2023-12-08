@@ -1,5 +1,3 @@
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com)
-
 ## What is Astro?
 
 Astro is a cutting-edge frontend web framework designed for unparalleled performance. With its "zero JavaScript" default approach, Astro prioritizes static HTML delivery, resulting in faster page loads and optimal performance. The framework introduces "islands" for partial hydration, enabling selective JavaScript loading for specific dynamic functionalities.
