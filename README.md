@@ -1,5 +1,32 @@
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com)
 
+## What is Astro?
+
+Astro is a cutting-edge frontend web framework designed for unparalleled performance. With its "zero JavaScript" default approach, Astro prioritizes static HTML delivery, resulting in faster page loads and optimal performance. The framework introduces "islands" for partial hydration, enabling selective JavaScript loading for specific dynamic functionalities.
+
+## Key Features:
+
+- **Zero JavaScript by Default:**
+  Astro minimizes reliance on JavaScript, emphasizing static HTML for swift rendering and improved performance.
+
+- **Partial Hydration with Islands:**
+  The concept of "islands" allows selective JavaScript loading, preserving the benefits of static rendering while enabling dynamic behavior.
+
+- **Efficient Builds:**
+  Astro streamlines the build process, delivering minimal JavaScript and resources for faster load times.
+
+## Why Astro?
+
+- **Performance-Centric:**
+  Enjoy enhanced web performance with Astro's focus on static rendering and strategic JavaScript hydration.
+
+- **Optimal User Experience:**
+  Faster initial page loads contribute to an improved user experience, making Astro an ideal choice for responsive web applications.
+
+- **Community-Driven:**
+  As a newer framework, Astro boasts an active community and regularly updated documentation. Stay tuned for the latest practices and enhancements.
+
+
 ## Setup
 
 > Use Node version 18.
