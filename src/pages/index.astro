@@ -1,8 +1,8 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 const homePage = "Home Page";
-import '../styles/global.css';
+import "../styles/global.css";
 ---
 
 <html lang="en">
@@ -18,6 +18,10 @@ import '../styles/global.css';
 
     <h1>{homePage}</h1>
 
-	<Footer/>
+    <Footer />
+
+    <script>
+      import "../scripts/menu.js";
+    </script>
   </body>
 </html>
