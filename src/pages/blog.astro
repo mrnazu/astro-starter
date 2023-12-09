@@ -1,5 +1,7 @@
 ---
 import Navigation from "../components/Navigation.astro";
+import Footer from '../components/Footer.astro';
+
 const blog = "Blog";
 ---
 
@@ -11,7 +13,7 @@ const blog = "Blog";
     <meta name="generator" content={Astro.generator} />
     <title>{blog}</title>
   </head>
-  <body>
+  <>
     <Navigation />
 
     <h1>My Astro Learning {blog} Page</h1>
@@ -22,5 +24,7 @@ const blog = "Blog";
       <li><a href="/posts/post-2/">Post 2</a></li>
       <li><a href="/posts/post-3/">Post 3</a></li>
     </ul>
+
+	<Footer/>
   </body>
 </html>
