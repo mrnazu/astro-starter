@@ -37,7 +37,11 @@ const navItems = [
 				sndwch
 			</a>
 
-			<!-- TODO: add nav -->
+			<nav>
+				{navItems.map((item) => {
+					return <a href={item.path}>{item.label}</a>
+				})}
+			</nav>
 		</header>
 
 		<slot />
